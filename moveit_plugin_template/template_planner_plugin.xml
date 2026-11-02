@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<library path="moveit_plugin_template">
+  <class name="moveit_plugin_template/TemplatePlanner"
+         type="moveit_plugin_template::TemplatePlannerManager"
+         base_class_type="planning_interface::PlannerManager">
+    <description>Simple MoveIt 2 planner manager template.</description>
+  </class>
+</library>
